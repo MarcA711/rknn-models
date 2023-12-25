@@ -1,2 +1,4 @@
 /input/
 /output/
+
+!/input/model_onnx.py
